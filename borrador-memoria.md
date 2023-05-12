@@ -4,21 +4,21 @@ Resumen en tres idiomas, español: (Resumen), valenciano (Resum) e inglés (Abst
 
 Índice (tabla de contenidos e imágenes).
 
-1. Justificación.
+# 1. Justificación.
 
-3. Gestión del proyecto.
+# 3. Gestión del proyecto.
 
-5. Herramientas utilizadas.
+# 5. Herramientas utilizadas.
 
-7. Descripción del proyecto.
+# 7. Descripción del proyecto.
 
-Fases del proyecto
-  Administración de sistemas y redes ASIR
-  Administra y gestiona sistemas informáticos,
-  Administra servicios de internet,
-  Administra y gestiona la información,
-  Administra la seguridad,
-  Administra el mantenimiento y recuperación del sistema
+## Fases del proyecto
+- Administración de sistemas y redes ASIR
+- Administra y gestiona sistemas informáticos,
+- Administra servicios de internet,
+- Administra y gestiona la información,
+- Administra la seguridad,
+- Administra el mantenimiento y recuperación del sistema
 
   7.1 Análisis.
 
