@@ -20,18 +20,19 @@ Resumen en tres idiomas, español: (Resumen), valenciano (Resum) e inglés (Abst
 - Administra la seguridad,
 - Administra el mantenimiento y recuperación del sistema
 
-  7.1 Análisis.
+## 7.1 Análisis.
 
-  7.2 Diseño.
+## 7.2 Diseño.
 
-  7.3 Implementación/Desarrollo.
+## 7.3 Implementación/Desarrollo.
 
-  7.4 Pruebas. 
+## 7.4 Pruebas. 
 
-  7.5 Documentación.
+## 7.5 Documentación.
 
-8 Trabajos futuros.
-9. Conclusiones.
+# 8. Trabajos futuros.
+# 9. Conclusiones.
+
 Bibliografía y webgrafía.
 
 Anexos:
